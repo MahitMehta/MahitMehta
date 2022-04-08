@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **contact@mahitm.com**
 
-- 📄 Know about my experiences [https://res.cloudinary.com/mahitm-cdn/image/upload/mahitm/resume.pdf](https://res.cloudinary.com/mahitm-cdn/image/upload/mahitm/resume.pdf)
+- 📄 Know about my experiences [https://www.mahitm.com/resume](https:www.mahitm.com/resume)
 
 - ⚡ Fun fact **I Like Table Tennis**
 
