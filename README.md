@@ -17,6 +17,13 @@
 
 - ⚡ Fun fact: **I Like Table Tennis**
 
+<details>
+  <summary>Skills</summary>
+  <li>React.js / Next.js / React Native</li>
+  <li>Vue.js / Nuxt.js</li>
+  <li>Node.js / Express.js / Nest.js</li>
+</details>
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/mahit-mehta-068603203" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mahit-mehta-068603203" height="30" width="40" /></a>
