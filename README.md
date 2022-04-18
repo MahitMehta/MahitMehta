@@ -15,7 +15,7 @@
 
 - 📄 Know about my experiences [https://www.mahitm.com/resume](https://www.mahitm.com/resume)
 
-- ⚡ Fun fact **I Like Table Tennis**
+- ⚡ Fun fact: **I Like Table Tennis**
 I 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
