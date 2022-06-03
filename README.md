@@ -9,7 +9,7 @@ src="https://user-images.githubusercontent.com/73650235/171778585-99b0e6ed-7729-
   </p>
 </div>
 
-<h3 align="center">Support:</h3>
+<h3 align="center">Love my work? Consider Supporting Me. 😉</h3>
 <p align="center"><a href="https://www.buymeacoffee.com/mahit"> <img align="center" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="mahit" /></a></p><br><br>
 <!--<p align="left"> <img src="https://komarev.com/ghpvc/?username=mahitmehta&label=Profile%20views&color=0e75b6&style=flat" alt="mahitmehta" /> </p>
 
