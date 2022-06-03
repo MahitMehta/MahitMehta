@@ -1,16 +1,23 @@
 <img 
 src="https://user-images.githubusercontent.com/73650235/171778585-99b0e6ed-7729-44a2-8a52-8ef35a3b11a8.png" />
 
-<div>
+<article>
+  <h1 align="center">Quick Summary About Me! 😎</h1>
+  <p align="center">I'm a Fullstack developer based in New Jersey, USA who is truly passionate for learning and exploring the capabilities of programming through the various projects I embark on.</p>
+</article>
+<br/>
+<hr/>
+<br/>
+<article>
   <blockquote align="center">"Music has been shown to improve both productivity and cognitive performance"</blockquote>
   <p align="center">If I'm listening to Music, I'm probably in my focus zone. <span role="img">🧑🏽‍💻</p>
   <p align="center">
     <img src="https://spotify-github-profile.vercel.app/api/view?uid=5aosoro5qll9nashalr97snsu&cover_image=true&theme=default" />
   </p>
-</div>
+</article>
 
 <h3 align="center">Love my work? Consider Supporting Me. 😉</h3>
-<p align="center"><a href="https://www.buymeacoffee.com/mahit"> <img align="center" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="mahit" /></a></p><br><br>
+<p align="center"><a href="https://www.buymeacoffee.com/mahit"> <img align="center" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="mahit" /></a></p>
 <!--<p align="left"> <img src="https://komarev.com/ghpvc/?username=mahitmehta&label=Profile%20views&color=0e75b6&style=flat" alt="mahitmehta" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mahitmehta" alt="mahitmehta" /></a> </p>
