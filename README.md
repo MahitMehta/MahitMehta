@@ -12,7 +12,7 @@ src="https://user-images.githubusercontent.com/73650235/171778585-99b0e6ed-7729-
   <blockquote align="center">"Music has been shown to improve both productivity and cognitive performance"</blockquote>
   <p align="center">If I'm listening to Music, I'm probably in my focus zone. <span role="img">🧑🏽‍💻</p>
   <p align="center">
-    <img src="https://spotify-github-profile.vercel.app/api/view?uid=5aosoro5qll9nashalr97snsu&cover_image=true&theme=default" />
+    <img alt="I guess I'm not currently listening to Music 😅" src="https://spotify-github-profile.vercel.app/api/view?uid=5aosoro5qll9nashalr97snsu&cover_image=true&theme=default" />
   </p>
 </article>
 
