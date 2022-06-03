@@ -1,7 +1,6 @@
-<h1 align="center">Hi 👋, I'm Mahit Mehta</h1>
-<h3 align="center">Progressive Full Stack Developer</h3>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=mahitmehta&label=Profile%20views&color=0e75b6&style=flat" alt="mahitmehta" /> </p>
+<img 
+src="https://user-images.githubusercontent.com/73650235/171778585-99b0e6ed-7729-44a2-8a52-8ef35a3b11a8.png" />
+<!--<p align="left"> <img src="https://komarev.com/ghpvc/?username=mahitmehta&label=Profile%20views&color=0e75b6&style=flat" alt="mahitmehta" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mahitmehta" alt="mahitmehta" /></a> </p>
 
@@ -33,4 +32,4 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mahitmehta&show_icons=true&locale=en" alt="mahitmehta" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mahitmehta&" alt="mahitmehta" /></p>
-
+-->
