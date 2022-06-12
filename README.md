@@ -5,7 +5,14 @@ src="https://user-images.githubusercontent.com/73650235/171778585-99b0e6ed-7729-
   <h1 align="center">Quick Summary About Me! 😎</h1>
   <p align="center">I'm a Fullstack developer based in New Jersey, USA who is truly passionate for learning and exploring the capabilities of programming through the various projects I embark on.</p>
 </article>
-<br/>
+<br>
+<article>
+  <h1 align="center">Github Stats 🚀</h1>
+    <br/>
+   <p align="center"><img src="https://github-readme-stats.vercel.app/api?username=MahitMehta&show_icons=true&theme=dark&locale=en" alt="Mahit's Github Stats" /></p>
+    <p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=EDED2314&show_icons=true&theme=dark&locale=en&langs_count=10&layout=compact" alt="Mahit's Top Languages" /></p>
+ 
+</article>
 <hr/>
 <br/>
 <article>
@@ -15,6 +22,7 @@ src="https://user-images.githubusercontent.com/73650235/171778585-99b0e6ed-7729-
     <img alt="I guess I'm not currently listening to Music 😅" src="https://spotify-github-profile.vercel.app/api/view?uid=5aosoro5qll9nashalr97snsu&cover_image=true&theme=default" />
   </p>
 </article>
+
 
 <h3 align="center">Love my work? Consider Supporting Me. 😉</h3>
 <p align="center"><a href="https://www.buymeacoffee.com/mahit"> <img align="center" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="mahit" /></a></p>
