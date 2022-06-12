@@ -10,7 +10,7 @@ src="https://user-images.githubusercontent.com/73650235/171778585-99b0e6ed-7729-
   <h1 align="center">Github Stats 🚀</h1>
     <br/>
    <p align="center"><img src="https://github-readme-stats.vercel.app/api?username=MahitMehta&show_icons=true&theme=dark&locale=en" alt="Mahit's Github Stats" /></p>
-    <p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=EDED2314&show_icons=true&theme=dark&locale=en&langs_count=10&layout=compact" alt="Mahit's Top Languages" /></p>
+    <p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=MahitMehta&show_icons=true&theme=dark&locale=en&langs_count=10&layout=compact" alt="Mahit's Top Languages" /></p>
  
 </article>
 <hr/>
