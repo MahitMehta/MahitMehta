@@ -3,7 +3,7 @@ src="https://user-images.githubusercontent.com/73650235/171778585-99b0e6ed-7729-
 
 <article>
   <h1 align="center">Quick Summary About Me! 😎</h1>
-  <p align="center">I'm a Fullstack developer based in New Jersey, USA who is truly passionate about learning and exploring the capabilities of programming through the various projects I embark on to finally create a social impact. </p>
+  <p align="center">I'm a Fullstack developer based in New Jersey, USA who is truly passionate about learning and exploring the capabilities of programming through the various projects I embark on to ultimately create a social impact. </p>
 </article>
 <br>
 <article>
