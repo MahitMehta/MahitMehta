@@ -5,7 +5,7 @@ src="https://user-images.githubusercontent.com/73650235/171778585-99b0e6ed-7729-
   <h1 align="center">Quick Summary About Me! 😎</h1>
   <p align="center">I'm a developer, web architect, and student based in New Jersey, USA, continuously
 exploring the realm of computer science. Presently, I’m immersed in the
-development of a specialized remote desktop application tailored for Linux virtual
+development of a specialized remote desktop application (<a href="https://github.com/MahitMehta/mrial">Mrial</a>) tailored for Linux virtual
 machines, employing the Rust programming language.</p>
 </article>
 <br>
