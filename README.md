@@ -1,5 +1,5 @@
-<img 
-src="https://user-images.githubusercontent.com/73650235/171778585-99b0e6ed-7729-44a2-8a52-8ef35a3b11a8.png" />
+
+![billboard (1)](https://github.com/user-attachments/assets/d2632596-f2f7-42ca-bb44-170f5c43d71b)
 
 <article>
   <h1 align="center">Quick Summary About Me! 😎</h1>
