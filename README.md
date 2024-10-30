@@ -28,9 +28,9 @@
 <article>
   <h1>Github Stats 🚀</h1>
   <br/>
-  <span><img src="https://github-readme-stats.vercel.app/api/top-langs?username=MahitMehta&show_icons=true&theme=dark&locale=en&langs_count=10&layout=compact" alt="Mahit's Top Languages" /></span>
+  <span><img src="https://github-readme-stats.vercel.app/api/top-langs?username=MahitMehta&show_icons=true&theme=github_dark&locale=en&langs_count=10&hide_border=true&layout=compact" alt="Mahit's Top Languages" /></span>
   <span>&nbsp;&nbsp;</span>
-  <span><img src="https://github-profile-trophy.vercel.app/?username=MahitMehta&theme=discord&rank=A,AA,AAA,SECRET,S,SS,SSS,UNKNOWN&column=5" /></span>
+  <span><img src="https://github-profile-trophy.vercel.app/?username=MahitMehta&theme=darkhub&rank=A,AA,AAA,SECRET,S,SS,SSS,UNKNOWN&column=4&no-frame=true&margin-w=3&margin-h=3" /></span>
 </article>
 <article>
   <h1>Support</h1>
