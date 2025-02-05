@@ -11,9 +11,9 @@
 
 - 💬 Ask me about **React, Networking, Rust & Protocols**
 
-- 📫 How to reach me **contact@mahitm.com**
+- 📫 How to reach me: **contact@mahitm.com**
 
-- 📄 Know about my professional experience [mahitm.com/resume](https://www.mahitm.com/resume)
+- 📄 Know about my [professional experience](https://www.mahitm.com/cdn/v1/resume)
 
 - ⚡ Fun fact: I enjoying playing **Table Tennis** & watching **K-Dramas**(My favorite is Itaewon Class)
 
