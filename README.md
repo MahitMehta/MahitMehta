@@ -15,7 +15,7 @@
 
 - 📄 Know about my professional experience [mahitm.com/resume](https://www.mahitm.com/resume)
 
-- ⚡ Fun fact: I enjoying playing **Table Tennis** & watching **K-Dramas**(My favorite is CLOY)
+- ⚡ Fun fact: I enjoying playing **Table Tennis** & watching **K-Dramas**(My favorite is Itaewon Class)
 
 <hr/>
 <h3>A Glimpse of my World (via Music)</h3>
