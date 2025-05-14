@@ -5,7 +5,7 @@
   <h1>Overview</h1>
   <p>I'm a developer, web architect, and designer originally from New Jersey, however, currently I'm studying Computer Science at <b>Purdue University</b>. Over the years, I’ve accumulated experience in the various aspects of software development. I began my journey working with web technologies such as React, HTTP servers, and No-SQL databases. Later, I transitioned to building mobile applications in Flutter and React Native. Recently, I’ve been working with Rust to develop a remote desktop application (<a href="https://github.com/MahitMehta/mrial">Mrial</a>), a mesh VPN, and other cool stuff! Feel free to reach out if you're interested in my work!</p>
 
-  - 🌱 I’m currently focusing on **Stable Diffusion + LoRAs & Agentic AI**
+  - 🌱 I’m currently focusing on **[PoliStock](https://www.polistock.app), Stable Diffusion + LoRAs, and Agentic AI**
 
 - 👨‍💻 Learn about my projects at [mahitm.com](https://www.mahitm.com) and [Github](https://github.com/MahitMehta?tab=repositories)
 
