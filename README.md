@@ -18,9 +18,6 @@
 - ⚡ Fun fact: I enjoy playing **Table Tennis** & watching **K-Dramas**(My favorite is Itaewon Class)
 
 <hr/>
-<h3>A Glimpse of my World (via Music)</h3>
-<h4>Check out <a href="https://mahitm.com/svc" target="_blank">MahitM SVC Search</a> for a comprehensive view.</h4>
-<blockquote>"Music has been shown to improve both productivity and cognitive performance"</blockquote>
 <p>If I'm listening to Music, I'm probably in my focus zone. <span role="img">🧑🏽‍💻</p> 
 
 [![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=5aosoro5qll9nashalr97snsu&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=false)](https://spotify-github-profile.kittinanx.com/api/view?uid=5aosoro5qll9nashalr97snsu&redirect=true)
